@@ -1,0 +1,19 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-TD_CharacterBase_1.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\micha\OneDrive\Documents\Unreal Projects\TD_CharacterBase_1\Intermediate\Build\Win64\x64\TD_CharacterBase_1Editor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp17.InclOrderUnreal5_1.h.obj"
+"C:\Users\micha\OneDrive\Documents\Unreal Projects\TD_CharacterBase_1\Intermediate\Build\Win64\x64\UnrealEditor\Development\TD_CharacterBase_1\TD_CharacterBase_1.init.gen.cpp.obj"
+"C:\Users\micha\OneDrive\Documents\Unreal Projects\TD_CharacterBase_1\Intermediate\Build\Win64\x64\UnrealEditor\Development\TD_CharacterBase_1\TD_CharacterBase_1Character.gen.cpp.obj"
+"C:\Users\micha\OneDrive\Documents\Unreal Projects\TD_CharacterBase_1\Intermediate\Build\Win64\x64\UnrealEditor\Development\TD_CharacterBase_1\TD_CharacterBase_1GameMode.gen.cpp.obj"
+"C:\Users\micha\OneDrive\Documents\Unreal Projects\TD_CharacterBase_1\Intermediate\Build\Win64\x64\UnrealEditor\Development\TD_CharacterBase_1\TD_CharacterBase_1PlayerController.gen.cpp.obj"
+"C:\Users\micha\OneDrive\Documents\Unreal Projects\TD_CharacterBase_1\Intermediate\Build\Win64\x64\UnrealEditor\Development\TD_CharacterBase_1\TD_CharacterBase_1.cpp.obj"
+"C:\Users\micha\OneDrive\Documents\Unreal Projects\TD_CharacterBase_1\Intermediate\Build\Win64\x64\UnrealEditor\Development\TD_CharacterBase_1\TD_CharacterBase_1Character.cpp.obj"
+"C:\Users\micha\OneDrive\Documents\Unreal Projects\TD_CharacterBase_1\Intermediate\Build\Win64\x64\UnrealEditor\Development\TD_CharacterBase_1\TD_CharacterBase_1GameMode.cpp.obj"
+"C:\Users\micha\OneDrive\Documents\Unreal Projects\TD_CharacterBase_1\Intermediate\Build\Win64\x64\UnrealEditor\Development\TD_CharacterBase_1\TD_CharacterBase_1PlayerController.cpp.obj"
+"C:\Users\micha\OneDrive\Documents\Unreal Projects\TD_CharacterBase_1\Intermediate\Build\Win64\x64\UnrealEditor\Development\TD_CharacterBase_1\Default.rc2.res"
+/OUT:"C:\Users\micha\OneDrive\Documents\Unreal Projects\TD_CharacterBase_1\Intermediate\Build\Win64\x64\UnrealEditor\Development\TD_CharacterBase_1\UnrealEditor-TD_CharacterBase_1.lib"

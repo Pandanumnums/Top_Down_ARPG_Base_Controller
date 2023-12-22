@@ -1,0 +1,15 @@
+﻿  Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" TD_CharacterBase_1Editor Win64 Development -Project="C:\Users\micha\OneDrive\Documents\Unreal Projects\TD_CharacterBase_1\TD_CharacterBase_1.uproject" -WaitMutex -FromMsBuild
+  Log file: C:\Users\micha\AppData\Local\UnrealBuildTool\Log.txt
+  Building TD_CharacterBase_1Editor...
+  Using Visual Studio 2022 14.33.31631 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Determining max actions to execute in parallel (8 physical cores, 16 logical cores)
+    Executing up to 8 processes, one per physical core
+  Building 4 actions with 4 processes...
+  [1/4] Compile TD_CharacterBase_1Character.cpp
+  [2/4] Link UnrealEditor-TD_CharacterBase_1.lib
+     Creating library C:\Users\micha\OneDrive\Documents\Unreal Projects\TD_CharacterBase_1\Intermediate\Build\Win64\UnrealEditor\Development\TD_CharacterBase_1\UnrealEditor-TD_CharacterBase_1.lib and object C:\Users\micha\OneDrive\Documents\Unreal Projects\TD_CharacterBase_1\Intermediate\Build\Win64\UnrealEditor\Development\TD_CharacterBase_1\UnrealEditor-TD_CharacterBase_1.exp
+  [3/4] Link UnrealEditor-TD_CharacterBase_1.dll
+     Creating library C:\Users\micha\OneDrive\Documents\Unreal Projects\TD_CharacterBase_1\Intermediate\Build\Win64\UnrealEditor\Development\TD_CharacterBase_1\UnrealEditor-TD_CharacterBase_1.suppressed.lib and object C:\Users\micha\OneDrive\Documents\Unreal Projects\TD_CharacterBase_1\Intermediate\Build\Win64\UnrealEditor\Development\TD_CharacterBase_1\UnrealEditor-TD_CharacterBase_1.suppressed.exp
+  [4/4] WriteMetadata TD_CharacterBase_1Editor.target
+  Total time in Parallel executor: 21.68 seconds
+  Total execution time: 22.32 seconds

@@ -1,0 +1,23 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\micha\\onedrive\\documents\\unreal projects\\td_characterbase_1\\intermediate\\build\\win64\\unrealeditor\\inc\\td_characterbase_1\\uht\\td_characterbase_1character.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\micha\\onedrive\\documents\\unreal projects\\td_characterbase_1\\intermediate\\build\\win64\\x64\\td_characterbase_1editor\\development\\unrealed\\sharedpch.unrealed.cpp17.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "c:\\users\\micha\\onedrive\\documents\\unreal projects\\td_characterbase_1\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\td_characterbase_1\\definitions.td_characterbase_1.h",
+            "c:\\users\\micha\\onedrive\\documents\\unreal projects\\td_characterbase_1\\source\\td_characterbase_1\\td_characterbase_1character.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\experimental\\iris\\core\\public\\iris\\serialization\\irisobjectreferencepackagemap.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\iriscore\\uht\\irisobjectreferencepackagemap.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementreplication.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
+            "c:\\users\\micha\\onedrive\\documents\\unreal projects\\td_characterbase_1\\intermediate\\build\\win64\\unrealeditor\\inc\\td_characterbase_1\\uht\\td_characterbase_1character.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

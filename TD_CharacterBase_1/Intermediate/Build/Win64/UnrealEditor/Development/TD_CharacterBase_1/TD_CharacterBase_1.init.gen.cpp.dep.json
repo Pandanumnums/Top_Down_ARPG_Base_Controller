@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\micha\\onedrive\\documents\\unreal projects\\td_characterbase_1\\intermediate\\build\\win64\\unrealeditor\\inc\\td_characterbase_1\\uht\\td_characterbase_1.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\micha\\onedrive\\documents\\unreal projects\\td_characterbase_1\\intermediate\\build\\win64\\td_characterbase_1editor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\micha\\onedrive\\documents\\unreal projects\\td_characterbase_1\\intermediate\\build\\win64\\unrealeditor\\development\\td_characterbase_1\\definitions.td_characterbase_1.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

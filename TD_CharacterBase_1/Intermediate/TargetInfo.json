@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "TD_CharacterBase_1",
+			"Path": "..\\Source\\TD_CharacterBase_1.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TD_CharacterBase_1Editor",
+			"Path": "..\\Source\\TD_CharacterBase_1Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

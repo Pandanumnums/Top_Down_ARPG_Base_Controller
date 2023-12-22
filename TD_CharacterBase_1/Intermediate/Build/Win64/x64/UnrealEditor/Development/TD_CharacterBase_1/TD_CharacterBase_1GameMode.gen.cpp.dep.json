@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\micha\\onedrive\\documents\\unreal projects\\td_characterbase_1\\intermediate\\build\\win64\\unrealeditor\\inc\\td_characterbase_1\\uht\\td_characterbase_1gamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\micha\\onedrive\\documents\\unreal projects\\td_characterbase_1\\intermediate\\build\\win64\\x64\\td_characterbase_1editor\\development\\unrealed\\sharedpch.unrealed.cpp17.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "c:\\users\\micha\\onedrive\\documents\\unreal projects\\td_characterbase_1\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\td_characterbase_1\\definitions.td_characterbase_1.h",
+            "c:\\users\\micha\\onedrive\\documents\\unreal projects\\td_characterbase_1\\source\\td_characterbase_1\\td_characterbase_1gamemode.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\users\\micha\\onedrive\\documents\\unreal projects\\td_characterbase_1\\intermediate\\build\\win64\\unrealeditor\\inc\\td_characterbase_1\\uht\\td_characterbase_1gamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
